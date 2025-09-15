@@ -1,6 +1,5 @@
 # PATH-PLANNING-COMPARISON
 Dijkstra vs A* (Python) — path planning on weighted graphs with Euclidean heuristic
-# Dijkstra vs A* (Python, adjacency matrix)
 
 이 프로젝트는 **자율주행(모바일 로봇)에서의 경로 계획(Path Planning)** 방법으로 널리 쓰이는  
 **Dijkstra**와 **Astar**를 같은 입력 형식으로 구현·비교합니다.
