@@ -91,10 +91,10 @@ python AStar.py
 ```
 
 ### Dijkstra
-![Dijkstra shortest path](assets/Dijkstra_result.jpg)
+![Dijkstra shortest path](path-planning-comparison/assets/Dijkstra_result.jpg)
 
 ### A*
-![A* shortest path](assets/Astar_result.jpg)
+![A* shortest path](path-planning-comparison/assets/Astar_result.jpg)
 
 
 ## 주의사항 (Warnings)
